@@ -7,12 +7,9 @@
 </template>
 
 <style scoped>
-body {
-  background-color: #1D1D1D;
-  color: #FFFFFF;
-}
-
 h1 {
-
+    padding: 2rem;
+    background-color: #FFFFFF11;
+    margin: 0;
 }
 </style>
